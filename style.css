@@ -143,6 +143,7 @@ body{
     color: black;
     text-align: center;
     margin-bottom: 50px;
+    width: 60%;
 }
  .carousel-item img{
      width: 120px;
